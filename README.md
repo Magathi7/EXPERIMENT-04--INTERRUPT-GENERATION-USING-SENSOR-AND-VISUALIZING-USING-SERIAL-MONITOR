@@ -409,7 +409,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  ## Circuit board :
  
-![4th](https://github.com/user-attachments/assets/73bb73c0-4ebd-43a7-a3f9-360431acf894)
+![4th(1)](https://github.com/user-attachments/assets/95cd1540-c8e1-47ad-ab6c-ca29d9021f45)
 
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
